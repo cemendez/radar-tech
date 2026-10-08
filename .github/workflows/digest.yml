@@ -1,0 +1,50 @@
+name: Radar Tech diario
+
+on:
+  schedule:
+    - cron: '0 13 * * *' # 7:00 am en Puebla (UTC-6)
+  workflow_dispatch: # botón "Run workflow" para probar a mano
+
+permissions:
+  contents: write # para guardar state/seen.json en el repo
+
+concurrency:
+  group: radar-tech
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Generar y enviar digest
+        run: pnpm start
+        env:
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_REASONING_EFFORT: ${{ vars.LLM_REASONING_EFFORT }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - name: Guardar historial
+        run: |
+          git config user.name "radar-tech-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet || git commit -m "chore(digest): $(TZ=America/Mexico_City date +%F)"
+          git pull --rebase
+          git push

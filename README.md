@@ -10,7 +10,7 @@ Proyecto construido en público para documentar decisiones de arquitectura mient
 | --- | --- | --- |
 | [v0.1](https://github.com/cemendez/radar-tech/releases/tag/v0.1) | Lectura de feeds RSS en paralelo con tolerancia a fallos | ✓ |
 | [v0.2](https://github.com/cemendez/radar-tech/releases/tag/v0.2) | Selección y resumen con IA (modelos open-weights en tier gratuito) | ✗ |
-| v0.3 | Envío a Telegram, ejecución diaria con GitHub Actions y control de duplicados | ✗ |
+| [v0.3](https://github.com/cemendez/radar-tech/releases/tag/v0.3) | Envío a Telegram, ejecución diaria con GitHub Actions y control de duplicados | ✗ |
 | v0.4 | Ajustes basados en la operación real | ✗ |
 | v1.0 | Archivo histórico y página pública en el portafolio | ✗ |
 
@@ -55,6 +55,7 @@ docs/adr/        # decisiones de arquitectura
 - [ADR-001: Script programado en lugar de un servicio](docs/adr/001-script-programado.md)
 - [ADR-002: Curaduría con un LLM open-weights en dos etapas](docs/adr/002-curaduria-con-llm.md)
 - [ADR-003: Las respuestas del LLM como datos externos no confiables](docs/adr/003-respuestas-del-llm-como-datos-externos.md)
+- [ADR-004: Estado en el repositorio](docs/adr/004-estado-en-el-repositorio.md)
 
 ## Autor
 

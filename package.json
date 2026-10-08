@@ -1,10 +1,11 @@
 {
-  "name": "radar-tech",
-  "version": "0.2.0",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "start": "tsx --env-file-if-exists=.env src/index.ts",
-    "typecheck": "tsc --noEmit"
-  }
+    "name": "radar-tech",
+    "version": "0.3.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "tsx --env-file-if-exists=.env src/index.ts",
+        "typecheck": "tsc --noEmit",
+        "dry": "tsx --env-file-if-exists=.env src/index.ts --dry-run"
+    }
 }
