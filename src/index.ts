@@ -26,6 +26,8 @@ async function main(): Promise<void> {
     const seen = loadSeen();
     const fresh = articles.filter((article) => !seen[article.link]);
 
+    console.log(`Inicio: ${new Date().toISOString()}`);
+
     console.log(
         `${articles.length} artículos, ${fresh.length} nuevos (${failed.length} feeds con error)`,
     );

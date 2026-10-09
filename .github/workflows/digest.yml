@@ -2,7 +2,7 @@ name: Radar Tech diario
 
 on:
   schedule:
-    - cron: '0 13 * * *' # 7:00 am en Puebla (UTC-6)
+    - cron: '23 12 * * *' # 6:23 am en Puebla (12:23 UTC)
   workflow_dispatch: # botón "Run workflow" para probar a mano
 
 permissions:
