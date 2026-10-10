@@ -1,8 +1,6 @@
 name: Radar Tech diario
 
 on:
-  schedule:
-    - cron: '23 12 * * *' # 6:23 am en Puebla (12:23 UTC)
   workflow_dispatch: # botón "Run workflow" para probar a mano
 
 permissions:
@@ -15,7 +13,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +30,7 @@ jobs:
 
       - name: Generar y enviar digest
         run: pnpm start
+        timeout-minutes: 3
         env:
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}

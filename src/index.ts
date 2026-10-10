@@ -31,8 +31,7 @@ async function main(): Promise<void> {
     console.log(
         `${articles.length} artículos, ${fresh.length} nuevos (${failed.length} feeds con error)`,
     );
-    if (failed.length > 0)
-        console.log(`Feeds con error: ${failed.join(", ")}`);
+    if (failed.length > 0) console.log(`Feeds con error: ${failed.join(", ")}`);
 
     if (fresh.length === 0) {
         console.log("No hay artículos nuevos. Nada que enviar.");
@@ -72,18 +71,23 @@ async function main(): Promise<void> {
     );
 }
 
-main().catch(async (err: unknown) => {
-    const message = err instanceof Error ? err.message : String(err);
-    console.error(message);
-    process.exitCode = 1;
+main()
+    .catch(async (err: unknown) => {
+        const message = err instanceof Error ? err.message : String(err);
+        console.error(message);
+        process.exitCode = 1;
 
-    if (!DRY_RUN) {
-        try {
-            await sendTelegram(
-                `<b>Radar Tech falló hoy</b>\n<code>${escapeHtml(message.slice(0, 500))}</code>`,
-            );
-        } catch {
-            // si Telegram también falla, solo queda el log del workflow
+        if (!DRY_RUN) {
+            try {
+                await sendTelegram(
+                    `<b>Radar Tech falló hoy</b>\n<code>${escapeHtml(message.slice(0, 500))}</code>`,
+                );
+            } catch {
+                // si Telegram también falla, solo queda el log del workflow
+            }
         }
-    }
-});
+    })
+    .finally(() => {
+        // Si algo mantiene el proceso vivo, lo cerramos tras 5 s.
+        setTimeout(() => process.exit(), 5000).unref();
+    });

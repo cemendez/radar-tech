@@ -22,7 +22,10 @@ async function fetchDescription(url: string): Promise<string> {
         headers: { "User-Agent": "RadarTech/0.2 (+https://carlosemendez.com)" },
         signal: AbortSignal.timeout(8_000),
     });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    if (!res.ok) {
+        await res.body?.cancel();
+        throw new Error(`HTTP ${res.status}`);
+    }
 
     const html = (await res.text()).slice(0, 200_000);
     const description =

@@ -137,6 +137,7 @@ export async function chatJson<T>(
                         `${provider.name}: HTTP ${res.status}, reintento en ${retryAfter}s`,
                     );
                     await sleep(retryAfter * 1000);
+                    await res.body?.cancel();
                     continue;
                 }
                 if (res.status === 400 && strict) {

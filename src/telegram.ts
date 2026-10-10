@@ -66,4 +66,5 @@ export async function sendTelegram(text: string): Promise<void> {
         throw new Error(
             `Telegram HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`,
         );
+    await res.body?.cancel();
 }
