@@ -1,0 +1,14 @@
+name = "radar-tech-trigger"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = false
+preview_urls = false
+
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+invocation_logs = true
+persist = true
+
+[triggers]
+crons = ["55 14 * * *"] # 8:55 am en Puebla (14:55 UTC)
