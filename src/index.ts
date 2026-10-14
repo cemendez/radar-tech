@@ -2,6 +2,7 @@ import { fetchArticles } from "./feeds";
 import { buildDigest } from "./rank";
 import { loadSeen, saveSeen } from "./state";
 import { escapeHtml, formatDigest, sendTelegram } from "./telegram";
+import { archiveDigest, todayPuebla } from "./archive";
 
 const WINDOW_HOURS = 30;
 const DIGEST_SIZE = 10;
@@ -60,6 +61,16 @@ async function main(): Promise<void> {
         );
         return;
     }
+
+    await archiveDigest({
+        date: todayPuebla(),
+        items: digest.map((item) => ({
+            title: item.titulo,
+            url: item.link,
+            summary: item.resumen,
+            source: item.fuente,
+        })),
+    });
 
     for (const message of messages) await sendTelegram(message);
     saveSeen(

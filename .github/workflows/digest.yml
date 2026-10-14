@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "radar-tech-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state
+          git add state/seen.json archive
           git diff --cached --quiet || git commit -m "chore(digest): $(TZ=America/Mexico_City date +%F)"
           git pull --rebase
           git push
