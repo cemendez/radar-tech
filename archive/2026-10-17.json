@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-17",
+  "items": [
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "summary": "DeepSeek lanzó la versión V4.1 Flash 1017, una instantánea del modelo disponible vía la API `deepseek-flash`. Los desarrolladores pueden integrar la última versión del modelo en sus aplicaciones.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open con MLX en Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "summary": "Apple ML Research presentó Muse Spark Open con MLX para Mac Studio, permitiendo a investigadores y desarrolladores probar localmente los últimos modelos de IA en Apple silicon de forma privada.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "FLUX 3 Image Klein ofrece calidad de imagen de vanguardia con 5.6 B de parámetros, permitiendo generación y edición de texto a imagen y referencias múltiples usando pesos abiertos.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "JPEG XL vs. AVIF para casos de uso web",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude revela los orígenes de la curva ECDSA",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "Claude reveló los orígenes de la curva ECDSA, según el artículo enlazado.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Llmspeed – siente la velocidad de un LLM local antes de comprar hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "Llmspeed permite seleccionar hardware y modelo para simular tokens/seg y tiempo al primer token de un LLM local, usando benchmarks verificados en GPUs, Macs y más, ayudando a decidir la compra.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Podrías haber inventado los transformers de memoria",
+      "url": "https://alexwang.ai/posts/associative-memory",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cómo el equipo Claude Code hace revisión de código",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "summary": "El equipo Claude Code describe su proceso de revisión de código a gran escala, optimizando el tiempo humano necesario sin aumentar reversiones o incidentes.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia insiste que la RTX 5090 no está muerta pese a escasez y retiradas de tiendas",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+      "summary": "Nvidia confirmó que la RTX 5090 no está descontinuada, aunque la escasez y la retirada de listados la hacen prácticamente inexistente en tiendas, lo que afecta a desarrolladores que planifican hardware.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Taiwán persigue exportaciones ilícitas de servidores de IA a China con penas de cinco años",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}
