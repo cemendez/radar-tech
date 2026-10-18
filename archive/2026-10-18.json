@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-18",
+  "items": [
+    {
+      "title": "DeepSeek search and fetch – $0.75 por 1000 solicitudes exitosas",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Los ataques de typo‑squatting con dominios principales siguen siendo viables",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks",
+      "summary": "Los ataques de typo‑squatting siguen funcionando, especialmente los casos que usan caracteres cirílicos, los cuales evaden los filtros más avanzados. Los desarrolladores deben reforzar la validación de dominios.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Show HN: Sphinx – Gancho que te cuestiona sobre el código de tu IA antes de lanzar",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "Sphinx es una herramienta FOSS que se integra al flujo de agentes de código y, en cada despliegue, muestra un cuestionario para confirmar que entiendes el código generado por IA antes de enviarlo a producción.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Renderizado inline con document.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+      "summary": "Se muestra un truco que aprovecha la propiedad document.currentScript para insertar un pequeño <script> inline que se reemplaza a sí mismo, facilitando renderizado dinámico sin cargar archivos externos.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "web‑edit 0.1a2",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Pele – Diagramas Mermaid como SVG tematizables",
+      "url": "https://pele.run/",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Codex Desktop genera continuamente volcados Crashpad pendientes",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "summary": "Codex Desktop crea pares de archivos .dmp y _sidecar.json en la carpeta Crashpad/pending, acumulando hasta 4.9 GB en un equipo, lo que indica la necesidad de gestionar los volcados de fallos generados por la aplicación.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Récord mundial de Cinebench de 12 años es superado",
+      "url": "https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz",
+      "summary": "Luumi demuestra que con un equipo antiguo Haswell es posible romper récords de Cinebench, mostrando que no siempre se requiere hardware de última generación para lograr altas puntuaciones de overclocking.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "DLSS 5 oficial en juegos no compatibles brinda hasta 90 % más rendimiento",
+      "url": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
+      "summary": "Nvidia prueba su nuevo DLSS 5 Neural Renderer, extraído de NBA 2K27, en juegos no soportados y logra hasta un 90 % de mejora de rendimiento frente al modelo anterior, lo que interesa a devs que buscan optimizar gráficos.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Ingenieros del MIT crean piel blanda con detección 3D para gaming y VR",
+      "url": "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error",
+      "summary": "Investigadores del MIT integraron fibras ópticas blandas en una lámina de silicona que reconstruye su forma 3D en tiempo real, una tecnología pensada para mejorar la interacción en videojuegos, realidad virtual y terapia física.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}
