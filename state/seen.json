@@ -1,14 +1,4 @@
 {
-  "https://huggingface.co/blog/tiiuae/falcon-asr": "2026-10-08T19:14:19.209Z",
-  "https://laravel-news.com/laravel-fake-assertion-property-arrays": "2026-10-08T19:14:19.209Z",
-  "https://openai.com/index/oracle": "2026-10-08T19:14:19.209Z",
-  "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate": "2026-10-08T19:14:19.209Z",
-  "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030": "2026-10-08T19:14:19.209Z",
-  "https://twitter.com/danintheory/status/2108065033070789090": "2026-10-08T19:14:19.209Z",
-  "https://openai.com/index/disrupting-ai-enabled-false-front-operations": "2026-10-08T19:14:19.209Z",
-  "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion": "2026-10-08T19:14:19.209Z",
-  "https://www.tomshardware.com/tech-industry/semiconductors/department-of-war-dishes-out-usd1-5-billion-loan-commitment-to-boost-semiconductor-supply-chain-wolfspeed-to-focus-on-national-security-applications-as-part-of-30-year-agreement": "2026-10-08T19:14:19.209Z",
-  "https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance": "2026-10-08T19:14:19.209Z",
   "https://www.python.org/downloads/release/python-3150": "2026-10-09T18:24:42.166Z",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/independent-tests-rank-mistrals-new-trillion-parameter-large-4-the-best-ai-model-outside-the-u-s-and-china-but-chinese-open-weights-still-overcome-europes-best-efforts": "2026-10-09T18:24:42.166Z",
   "https://laravel-news.com/laravel-scheduler-multiple-servers": "2026-10-09T18:24:42.166Z",
@@ -115,5 +105,15 @@
   "https://github.com/openai/codex/issues/25921": "2026-10-18T14:55:59.790Z",
   "https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz": "2026-10-18T14:55:59.790Z",
   "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster": "2026-10-18T14:55:59.790Z",
-  "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error": "2026-10-18T14:55:59.790Z"
+  "https://www.tomshardware.com/virtual-reality/mit-engineers-build-soft-3d-shape-sensing-skin-for-gaming-and-vr-tracks-3d-movement-and-touch-with-sub-half-centimeter-error": "2026-10-18T14:55:59.790Z",
+  "https://mistral.ai/news/timestral": "2026-10-19T14:55:58.005Z",
+  "https://lwn.net/Articles/1101143": "2026-10-19T14:55:58.005Z",
+  "https://laravel-news.com/laravel-planetscale-olap": "2026-10-19T14:55:58.005Z",
+  "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on": "2026-10-19T14:55:58.005Z",
+  "https://www.tomshardware.com/tech-industry/cryptomining/claude-code-ai-agent-caught-a-crypto-miner-hiding-on-a-developers-overheating-mac-xmrig-task-was-hogging-about-1175-percent-cpu-roughly-12-cores-pushing-temps-to-112-degrees": "2026-10-19T14:55:58.005Z",
+  "https://simonwillison.net/2026/Oct/18/llm-echo": "2026-10-19T14:55:58.005Z",
+  "https://simonwillison.net/2026/Oct/18/llm-tools-datasette": "2026-10-19T14:55:58.005Z",
+  "https://arxiv.org/abs/2610.18861": "2026-10-19T14:55:58.005Z",
+  "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads": "2026-10-19T14:55:58.005Z",
+  "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes": "2026-10-19T14:55:58.005Z"
 }

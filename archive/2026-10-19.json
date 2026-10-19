@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-19",
+  "items": [
+    {
+      "title": "Timestral: Mistral lanza modelos fundacionales de series temporales",
+      "url": "https://mistral.ai/news/timestral",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux 7.3 lanzado",
+      "url": "https://lwn.net/Articles/1101143",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ejecuta consultas grandes de PlanetScale en Laravel con DB::olap()",
+      "url": "https://laravel-news.com/laravel-planetscale-olap",
+      "summary": "Laravel introdujo el método DB::olap() que ejecuta consultas en PlanetScale y Vitess en modo OLAP, superando el límite de 100 000 filas y luego vuelve a la conexión normal. Útil para devs que necesitan manejar grandes volúmenes de datos sin cambiar de ORM.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Si no ejecutas tu propio proxy LLM, ¿cómo sabes qué está pasando?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "El agente IA Claude Code detectó un minero de criptomonedas oculto en el Mac sobrecalentado de un desarrollador",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/claude-code-ai-agent-caught-a-crypto-miner-hiding-on-a-developers-overheating-mac-xmrig-task-was-hogging-about-1175-percent-cpu-roughly-12-cores-pushing-temps-to-112-degrees",
+      "summary": "Claude Code advirtió al desarrollador sobre un minero de criptomonedas oculto que sobrecalentaba su Mac, demostrando que los agentes IA pueden detectar procesos maliciosos y ayudar a mantener la seguridad y el rendimiento del equipo.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Agentes de razonamiento híbrido: agentes LLM que piensan en espacio latente y actúan mediante texto",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "summary": "Se anunció un nuevo tipo de agentes LLM que razonan en espacio latente y actúan mediante texto, con código abierto en GitHub y evaluaciones en arXiv. Este enfoque híbrido permite crear agentes más eficientes, relevante para quien construye sistemas de IA.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Arm afirma que su CPU AGI ofrece casi 2× el rendimiento por rack del AMD EPYC 9755 en nuevas pruebas de CPU para IA agente",
+      "url": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads",
+      "summary": "Arm asegura que su CPU AGI duplica casi el rendimiento por rack comparado con AMD EPYC 9755 en siete cargas de trabajo de IA agente, usando una metodología de evaluación conjunta con Fujitsu, Meta y OpenAI. Implica decisiones de hardware para proyectos de IA.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Constructor noruego de cable submarino propone enlace de datos transatlántico de 2,800 millas entre Canadá y Europa para eludir EE. UU.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-link-between-canada-and-europe-to-bypass-the-us-canadian-majority-partner-sought-to-help-fund-and-build-new-usd620-million-fiber-connection-to-reduce-reliance-on-american-routes",
+      "summary": "Bulk Infrastructure Group de Noruega busca socio para instalar un cable submarino de 2,800 millas que conecte Canadá con Europa, evitando rutas a EE. UU. Esto podría reducir latencia y dependencia de infraestructura estadounidense, importante para apps que requieren alta disponibilidad.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}
