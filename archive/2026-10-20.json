@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-20",
+  "items": [
+    {
+      "title": "MPS en PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "DeepSeek abre su motor de inferencia",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AnyLanguageModel 1.0: Un año de modelos locales en plataformas Apple",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "OpenBSD 8.0",
+      "url": "https://www.openbsd.org/80.html",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Vulnerabilidad crítica en Token Guard corregida en Laravel 13.29 y 12.68",
+      "url": "https://laravel-news.com/laravel-token-guard-auth-bypass",
+      "summary": "Se descubrió una vulnerabilidad que permitía a atacantes eludir la autenticación del guard token de Laravel y acceder como otros usuarios en bases MySQL y MariaDB. Actualiza a Laravel 12.68.0 o 13.29.0 para mitigar el riesgo.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Cómo continuar una sesión de GitHub Copilot en VS Code",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code",
+      "summary": "Aprende a mover la sesión de agente de la app GitHub Copilot a VS Code sin perder la conversación, los cambios de código ni el contexto de trabajo, facilitando la continuidad del desarrollo.",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Corte de Google Cloud afecta a bancos",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Avanzando la codificación en lenguajes de programación de bajos recursos",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "summary": "OpenAI está mejorando ChatGPT para lenguajes de programación con pocos recursos, añadiendo evaluaciones para ingeniería de software, SQLite y migración a COBOL, lo que beneficia a desarrolladores que trabajan con tecnologías legadas.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Google DeepMind afirma haber superado Minecraft con agentes Gemini 4 Argon en 27 horas",
+      "url": "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas",
+      "summary": "DeepMind reportó que cuatro agentes basados en Gemini 4 Argon completaron Minecraft, derrotando al Ender Dragon en 27 h 14 min sin trampas, según un paper en arXiv, mostrando avances en IA generativa para entornos virtuales.",
+      "source": "Xataka"
+    }
+  ]
+}
