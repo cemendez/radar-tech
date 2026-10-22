@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-22",
+  "items": [
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "summary": "Claude Duet es un agente de IA personal al que se le envían mensajes. Gestiona la bandeja, el calendario y los seguimientos, y avisa cuando requiere atención. Puedes unirte a la lista de espera.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Modelos de OpenAI llegan a Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI y Google Cloud integrarán los modelos de frontera y los flujos de trabajo de Codex en Gemini’s Model Garden, disponibles a través de Google Cloud Marketplace.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Node.js 26.12.1 (Actual)",
+      "url": "https://nodejs.org/en/blog/release/v26.12.1",
+      "summary": "Node.js® es un entorno de ejecución JavaScript gratuito, de código abierto y multiplataforma que permite crear servidores, aplicaciones web, herramientas de línea de comandos y scripts.",
+      "source": "Node.js"
+    },
+    {
+      "title": "Node.js 24.22.1 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v24.22.1",
+      "summary": "Node.js® es un entorno de ejecución JavaScript gratuito, de código abierto y multiplataforma que permite crear servidores, aplicaciones web, herramientas de línea de comandos y scripts.",
+      "source": "Node.js"
+    },
+    {
+      "title": "Lanzamientos de seguridad de PHP corrigen dos vulnerabilidades críticas de RCE",
+      "url": "https://laravel-news.com/php-critical-rce-security-releases",
+      "summary": "Las versiones PHP 8.5.12, 8.4.27, 8.3.36 y 8.2.35 corrigen dos vulnerabilidades críticas que permiten ejecución remota de código sin autenticación. Se indica quién está en riesgo y cómo actualizar.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Lanzamiento de parche crítico de GitLab",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released",
+      "summary": "El 21 de octubre de 2026 se publicaron versiones 19.5.1, 19.4.3, 19.3.6, 19.2.9, 19.1.9, 19.0.10 y 18.11.13 para GitLab Community Edition y Enterprise Edition.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "LiteLLM 1.107.0 comprometido en PyPI instala ladrón de credenciales y puerta trasera",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+      "summary": "La versión 1.107.0 de LiteLLM en PyPI incluye un archivo .pth que roba credenciales y un sitecustomize.py que actúa como puerta trasera, ejecutándose en cada inicio de Python. Se explica el origen, lo que roba y los indicadores de compromiso.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Varias vulnerabilidades del kernel de Linux publicadas por accidente",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "Durante la noche se publicaron en la lista pública del kernel de Linux varios informes de vulnerabilidades que debieron enviarse a la lista privada de seguridad, exponiendo detalles antes de su corrección.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "El puente a la infraestructura Git a escala de agentes",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure",
+      "summary": "GitHub trasladó el 99.99999% de sus repositorios a Azure y explica cómo los quórums por referencia y el almacenamiento de objetos permiten escalar lecturas de forma independiente, facilitando la infraestructura Git a escala de agentes.",
+      "source": "GitHub Blog"
+    }
+  ]
+}
