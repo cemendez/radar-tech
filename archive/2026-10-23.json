@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "title": "El último modelo de IA de Deepseek es más inteligente, pero su bajo costo tiene un precio",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+      "summary": "Deepseek lanzó el modelo 4.1 Flash 1017, que reduce el costo por tarea y está optimizado para cargas de trabajo agenticas, ofreciendo gran capacidad a bajo precio. Los desarrolladores pueden ejecutar agentes IA más económicos.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "OlmoEarth v1.3: Embeddings de última generación para todo el planeta",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "OpenShell – Un entorno de ejecución seguro y privado para flotas de agentes IA autónomos",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Construye apps más responsivas con la Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "¿Tu modelo se ejecuta en AWS Trainium? Búscalo",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Laravel Read Replicas: Evita lecturas obsoletas después de una escritura",
+      "url": "https://laravel-news.com/laravel-prevent-stale-database-reads",
+      "summary": "Laravel incluye el middleware PreventStaleDatabaseReads, que mantiene las lecturas del usuario en la base de datos de escritura tras un guardado, evitando que el retraso de réplicas de lectura muestre datos desactualizados.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Decide con Jev: Convierte respuestas de IA en decisiones con reglas PHP",
+      "url": "https://laravel-news.com/decide-with-jev-turn-ai-answers-into-decisions-with-php-rules",
+      "summary": "En el episodio 3 de Decide con Jev, se muestra cómo crear una clase PHP que transforma las respuestas de la IA en una etiqueta de decisión; si las respuestas son ambiguas, el borrador se asigna a una persona.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Quad9 saldrá de Francia",
+      "url": "https://quad9.net/news/blog/au-revoir-france",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Oficinas del gobierno sueco prohibirán ChatGPT y Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OpenAI y NASK de Polonia se asocian para impulsar la seguridad y protección de IA",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "OpenAI y NASK (Polonia) colaborarán en investigación técnica y en reforzar salvaguardas de IA, buscando un ecosistema digital más resiliente y seguro.",
+      "source": "OpenAI"
+    }
+  ]
+}
