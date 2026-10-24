@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-24",
+  "items": [
+    {
+      "title": "Dessa: modelo de conversación entrenado solo con voz",
+      "url": "https://block.xyz/dessa",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kimi K3.1 Pro y K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "summary": "Se publicaron los detalles de los modelos Kimi K3.1 Pro y K3.1 Pro Highspeed, con documentación y comparativas que muestran sus capacidades en IA generativa, útiles para integrar modelos de código abierto en proyectos.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Volker Dusch on the PHP RCE Vulnerabilities and Disclosure",
+      "url": "https://laravel-news.com/volker-dusch-php-rce-disclosure",
+      "summary": "Volker Dusch, de la PHP Foundation, detalla cómo se descubrieron, corrigieron y divulgaron dos vulnerabilidades críticas de ejecución remota de código en PHP, incluyendo la filtración y la ruptura del embargo, información clave para asegurar aplicaciones.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "summary": "OBS Studio lanza la versión 33.0 con nuevas funciones y actualiza CEF de 127/6533 a 150/7871, mejorando fuentes de navegador y docks, lo que beneficia a desarrolladores que crean plugins o integraciones de transmisión.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "OpenAI describe las mejoras en la contención de entrenamiento de modelos de frontera, implementando entornos offline y pruebas de red team de alta computación, lo que impacta prácticas de seguridad en desarrollo de IA.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "OpenAI detalla cómo escaló el almacenamiento en línea de Habitat para más de mil millones de usuarios de ChatGPT, usando multitenencia fiable, caché global y Azure Cosmos DB, logrando lecturas 12 veces más rápidas, relevante para diseñar infraestructuras de IA a gran escala.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite",
+      "summary": "Se celebra doce años de rqlite, que combina SQLite con un registro Raft para replicar escrituras en clústeres, ofreciendo alta disponibilidad sin perder datos, útil para desarrolladores que necesitan bases de datos ligeras y distribuidas.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers",
+      "url": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
+      "summary": "Un video filtrado muestra fábricas chinas desmantelando miles de GPUs RTX 5090, incluidas ediciones Founders, para reutilizarlas en servidores de IA, lo que explica la escasez del modelo en el mercado.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Texas suspende 17 permisos de construcción de centros de datos y cierra portal automatizado que aprobaba proyectos",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}
