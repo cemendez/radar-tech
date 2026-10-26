@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-26",
+  "items": [
+    {
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "NativePHP: avisos de seguridad móvil y actualización a 4.6.1",
+      "url": "https://laravel-news.com/nativephp-mobile-security-advisories",
+      "summary": "NativePHP emitió siete avisos de seguridad para su paquete móvil y recompiló binarios PHP frente a CVEs recientes. Actualiza a la versión 4.6.1 (o 3.3.11) y recompila para mantener tus aplicaciones seguras.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "PaperPilot: motor PDF puro Rust sin nube con WASM y MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "PaperPilot es un motor PDF escrito en Rust que funciona sin nube, usando WASM y MCP, y actúa como copilot de IA local para documentos. Puedes contribuir al proyecto en GitHub.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fanatics y OpenAI mejoran la experiencia del fan",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "summary": "Fanatics integró OpenAI para sugerir atuendos de día de juego mediante 'Shop the Look'. En pruebas con ~30 000 productos MLB, la interacción aumentó un 10 %, mostrando el potencial de IA en e‑commerce.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Seam Cutter",
+      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "summary": "Los autores cuestionan la necesidad del auto‑atención en modelos de secuencia y la describen como un levantamiento tensorial. Proponen una arquitectura sin atención basada en flujos de Grassmann como alternativa.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "El estado de la ingeniería de contexto",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "A medida que los modelos mejoran, la ingeniería de contexto se vuelve más compleja. El artículo revisa los cambios recientes y las tendencias futuras, clave para diseñar prompts y aplicaciones de IA.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Filtración: CPU EPYC Zen 6c de 256 núcleos supera a Zen 5 y sugiere 24% más IPC",
+      "url": "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements",
+      "summary": "Una filtración muestra que la CPU EPYC Zen 6c de 256 núcleos supera a Zen 5 en pruebas de un solo hilo, insinuando un aumento de ~24 % en IPC y mayores frecuencias, relevante para cargas de trabajo de alto rendimiento.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Cadence presenta Maestro: modelos IA para agentes de diseño de chips",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+      "summary": "Cadence lanzó Maestro, modelos de IA afinados para ejecutar agentes especializados en diseño de chips, con acceso anticipado para clientes seleccionados en el cuarto trimestre de 2026, señalando la incorporación de IA en flujos de diseño hardware.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "iPad Mini 2026 con pantalla OLED y chip A20 Pro",
+      "url": "https://www.xataka.com/tablet/apple-ipad-mini-caracteristicas-precio-ficha-tecnica",
+      "summary": "Apple adelantó el lanzamiento del iPad Mini 2026, equipándolo con pantalla OLED de 8.5 pulgadas y el SoC A20 Pro del iPhone 18 Pro Max, además de mejoras internas y una cámara frontal reposicionada, lo que abre nuevas posibilidades para desarrolladores de apps móviles.",
+      "source": "Xataka"
+    }
+  ]
+}
