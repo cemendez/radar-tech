@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "title": "Carga diferida de esquemas en Filament v5.8",
+      "url": "https://laravel-news.com/filament-5-8-0",
+      "summary": "Filament v5.8 introduce deferLoading() para cargar esquemas de forma diferida en secciones, pestañas, wizards y items repeater, además de agrupar tablas con persistencia en sesión y hooks de ciclo de vida, optimizando la carga y la experiencia del usuario en Laravel.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "GPT‑6.1 Terra: énfasis en razonamiento visual y computacional",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "summary": "OpenAI destaca la capacidad de razonamiento visual y computacional en GPT‑6.1 Terra, lo que abre nuevas posibilidades para integrar visión e IA en aplicaciones.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Greptile lleva la detección de bugs más allá de la revisión de código con GPT‑6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "GPT‑6.1 Sol ayuda a CodeRabbit a reforzar la seguridad en bases de código complejas",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "summary": "CodeRabbit usa GPT‑6.1 Sol para analizar riesgos de seguridad en bases de código complejas, ofreciendo un agente que revisa hallazgos y propone correcciones, facilitando la protección del software.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Protocolo Type Server para Pylance",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "summary": "Se publica la documentación y los issues de Pylance bajo el repositorio Type Server Protocol, permitiendo a los desarrolladores contribuir al servidor de lenguaje para Python en GitHub.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Se eliminará el JIT experimental de Python",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Exposición de caché KV entre solicitudes en el modelo GLM‑5.3 Workers AI",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation",
+      "summary": "Un desajuste de configuración en GLM‑5.3 de Workers AI provocó un bug de SGLang que expuso páginas del caché KV entre solicitudes; el artículo describe la solución aplicada.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "webframe: evaluado como scraper y sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation",
+      "summary": "webframe se evaluó como un navegador ligero para ejecutar JavaScript, ideal para scraping, con rendimiento similar a shot‑scraper, aunque presenta problemas como fallos de CSP.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Apple añade el chip M6 al MacBook Pro de 14 pulgadas y al iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "TSMC contempla un aumento del 20 % en precios de CoWoS por presión de chips Nvidia",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months",
+      "summary": "TSMC considera subir hasta un 20 % el precio de su tecnología CoWoS ante la presión de los chips Blackwell y Rubin de Nvidia, reflejando la creciente demanda y limitaciones de capacidad en empaquetado avanzado.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}

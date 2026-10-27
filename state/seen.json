@@ -1,14 +1,4 @@
 {
-  "https://research.meta.ai/blog/muse-spark-open": "2026-10-16T14:55:56.173Z",
-  "https://www.krea.ai/krea-3": "2026-10-16T14:55:56.173Z",
-  "https://huggingface.co/blog/reflection-beam": "2026-10-16T14:55:56.173Z",
-  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1": "2026-10-16T14:55:56.173Z",
-  "https://laravel-news.com/laravel-validation-rule-builders": "2026-10-16T14:55:56.173Z",
-  "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org": "2026-10-16T14:55:56.173Z",
-  "https://ipinfo.io/blog/rpki-protects-70-internet-routes": "2026-10-16T14:55:56.173Z",
-  "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say": "2026-10-16T14:55:56.173Z",
-  "https://huggingface.co/blog/nvidia/scaling-indic-pretraining": "2026-10-16T14:55:56.173Z",
-  "https://github.com/Saffsanity/sill": "2026-10-16T14:55:56.173Z",
   "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017": "2026-10-17T14:55:59.652Z",
   "https://machinelearning.apple.com/research/mlx-distributed-inference": "2026-10-17T14:55:59.652Z",
   "https://bfl.ai/blog/flux-3-image-klein": "2026-10-17T14:55:59.652Z",
@@ -97,5 +87,15 @@
   "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html": "2026-10-26T14:55:56.023Z",
   "https://www.tomshardware.com/pc-components/cpus/leaked-256-core-zen-6c-epyc-cpu-destroys-zen-5-in-early-single-threaded-benchmarks-hints-at-24-percent-ipc-gain-early-single-threaded-benchmarks-point-to-huge-amd-zen-6-improvements": "2026-10-26T14:55:56.023Z",
   "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model": "2026-10-26T14:55:56.023Z",
-  "https://www.xataka.com/tablet/apple-ipad-mini-caracteristicas-precio-ficha-tecnica": "2026-10-26T14:55:56.023Z"
+  "https://www.xataka.com/tablet/apple-ipad-mini-caracteristicas-precio-ficha-tecnica": "2026-10-26T14:55:56.023Z",
+  "https://laravel-news.com/filament-5-8-0": "2026-10-27T14:55:39.807Z",
+  "https://simonwillison.net/2026/Oct/26/gpt-61-terra": "2026-10-27T14:55:39.807Z",
+  "https://openai.com/index/greptile-code-review-codex-astra": "2026-10-27T14:55:39.807Z",
+  "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": "2026-10-27T14:55:39.807Z",
+  "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md": "2026-10-27T14:55:39.807Z",
+  "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c": "2026-10-27T14:55:39.807Z",
+  "https://blog.cloudflare.com/kv-cache-exposure-remediation": "2026-10-27T14:55:39.807Z",
+  "https://simonwillison.net/2026/Oct/26/webframe-evaluation": "2026-10-27T14:55:39.807Z",
+  "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999": "2026-10-27T14:55:39.807Z",
+  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months": "2026-10-27T14:55:39.807Z"
 }
