@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-28",
+  "items": [
+    {
+      "title": "Retell usa modelos de OpenAI para impulsar 100 M de llamadas mensuales",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "Retell integró GPT‑6 Astra y Codex de OpenAI en su agente de voz, logrando 100 M de llamadas al mes y un ritmo de ingresos anual de 1.6 M USD por empleado. Los desarrolladores pueden observar cómo escalar productos de IA de voz.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Construye modelos multimodales especializados con LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Recolección de sesiones programada en Laravel 13.39",
+      "url": "https://laravel-news.com/laravel-13-39-0",
+      "summary": "Laravel 13.39 introduce el comando session:garbage-collect para limpiar sesiones de forma programada, soporta modelos sin clave con #[Table(key: false)] y añade duración a JobAttempted. Facilita el mantenimiento y la gestión de recursos en aplicaciones PHP.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Vulnerabilidad de ejecución de código en firmware UEFI amenaza la mayoría de servidores del planeta",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Diez días después, Git en macOS aún confía en los certificados comprometidos de eMudhra",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "Una semana después de la filtración de la CA eMudhra, las herramientas Git, curl y python3 incluidas en macOS siguen aceptando esos certificados. Los desarrolladores deben revisar la cadena de confianza y aplicar parches para evitar vulnerabilidades.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tailscale SSH: actualización de investigación y remediación",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Discord quiere que los mensajes de sus servidores públicos se puedan buscar en Google, con todo lo que eso conlleva",
+      "url": "https://www.xataka.com/aplicaciones/discord-quiere-que-mensajes-sus-servidores-publicos-se-puedan-buscar-google-todo-que-eso-conlleva",
+      "summary": "Discord permitirá que los servidores públicos etiquetados como “Descubribles” sean indexados por buscadores como Google, con el objetivo de que respuestas útiles sean más fáciles de encontrar. La medida genera debate sobre privacidad y exposición de conversaciones.",
+      "source": "Xataka"
+    },
+    {
+      "title": "Nuevo MacBook Pro de 14 pulgadas con M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+      "summary": "Apple presentó el MacBook Pro de 14 pulgadas con el chip M6, ofreciendo mayor rendimiento, capacidades de IA en el dispositivo y conectividad más rápida. Los desarrolladores podrán aprovechar el procesamiento local para tareas de aprendizaje automático.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    }
+  ]
+}

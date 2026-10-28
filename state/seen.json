@@ -1,14 +1,4 @@
 {
-  "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017": "2026-10-17T14:55:59.652Z",
-  "https://machinelearning.apple.com/research/mlx-distributed-inference": "2026-10-17T14:55:59.652Z",
-  "https://bfl.ai/blog/flux-3-image-klein": "2026-10-17T14:55:59.652Z",
-  "https://jakearchibald.com/2026/jpeg-xl-vs-avif": "2026-10-17T14:55:59.652Z",
-  "https://www.anthropic.com/research/ecdsa-curve-origins": "2026-10-17T14:55:59.652Z",
-  "https://llmspeed.dev/": "2026-10-17T14:55:59.652Z",
-  "https://alexwang.ai/posts/associative-memory": "2026-10-17T14:55:59.652Z",
-  "https://claude.dev/blog/solving-code-review-at-anthropic": "2026-10-17T14:55:59.652Z",
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon": "2026-10-17T14:55:59.652Z",
-  "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid": "2026-10-17T14:55:59.652Z",
   "https://api-docs.deepseek.com/guides/search": "2026-10-18T14:55:59.790Z",
   "https://www.tomshardware.com/tech-industry/cyber-security/typo-squatting-attacks-with-major-domains-are-still-viable-corner-cases-with-cyrillic-characters-still-evade-the-best-checks": "2026-10-18T14:55:59.790Z",
   "https://sphinx-six-theta.vercel.app/": "2026-10-18T14:55:59.790Z",
@@ -97,5 +87,15 @@
   "https://blog.cloudflare.com/kv-cache-exposure-remediation": "2026-10-27T14:55:39.807Z",
   "https://simonwillison.net/2026/Oct/26/webframe-evaluation": "2026-10-27T14:55:39.807Z",
   "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999": "2026-10-27T14:55:39.807Z",
-  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months": "2026-10-27T14:55:39.807Z"
+  "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-reportedly-weighs-20-percent-cowos-price-increase-as-nvidia-blackwell-and-rubin-chips-put-pressure-on-packaging-capacity-equipment-lead-times-stretch-to-eight-months": "2026-10-27T14:55:39.807Z",
+  "https://openai.com/index/retell-ai": "2026-10-28T14:55:38.889Z",
+  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": "2026-10-28T14:55:38.889Z",
+  "https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-28T14:55:38.889Z",
+  "https://laravel-news.com/laravel-13-39-0": "2026-10-28T14:55:38.889Z",
+  "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth": "2026-10-28T14:55:38.889Z",
+  "https://emudhra.we-have-a-problem.com/apple.html": "2026-10-28T14:55:38.889Z",
+  "https://tailscale.com/ssh-investigation-update": "2026-10-28T14:55:38.889Z",
+  "https://www.xataka.com/aplicaciones/discord-quiere-que-mensajes-sus-servidores-publicos-se-puedan-buscar-google-todo-que-eso-conlleva": "2026-10-28T14:55:38.889Z",
+  "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6": "2026-10-28T14:55:38.889Z",
+  "https://ghostty.org/docs/install/release-notes/1-4-0": "2026-10-28T14:55:38.889Z"
 }
