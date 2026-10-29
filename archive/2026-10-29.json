@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-29",
+  "items": [
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Node.js 26.13.0 (LTS)",
+      "url": "https://nodejs.org/en/blog/release/v26.13.0",
+      "summary": "Node.js 26.13.0 LTS se lanza como la última versión estable del runtime JavaScript. Incluye mejoras de rendimiento y nuevas APIs, facilitando crear servidores, apps web y herramientas de línea de comandos.",
+      "source": "Node.js"
+    },
+    {
+      "title": "Bienvenido Le Chonk: Mistral Large 4 en Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe y Granary v2: Transcripción multilingüe inteligente que puedes indicar y adaptar",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Presentando AnySpeechRecognizer y AnyDecisionModel: Modelos abiertos para voz y decisiones en plataformas Apple",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Incidente de seguridad de GitLab: intento de explotación de CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Creando una cadena completa de Microsoft Edge solo con fallas lógicas",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain",
+      "summary": "Se presentó una cadena completa de explotación para Microsoft Edge basada únicamente en bugs lógicos, sin usar corrupción de memoria ni IA, en Pwn2Own Berlin 2026. Relevante para desarrolladores interesados en seguridad de navegadores.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "El NAS Synology accesible por internet de un experto en tecnología sufre ataque de ransomware por una vulnerabilidad de ejecución remota de 18 meses",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
+      "summary": "Un NAS Synology accesible desde internet fue comprometido por ransomware explotando una vulnerabilidad de ejecución remota con 18 meses sin parchear. Advierte sobre la importancia de mantener actualizados los dispositivos de red.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Nuestro primer paso para definir un benchmark de CPU para IA agente",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
+      "summary": "Se propone un benchmark para evaluar el rendimiento de CPUs bajo cargas de trabajo de IA agente, ofreciendo una primera referencia para comparar procesadores en este nuevo tipo de aplicaciones.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "GitHub Universe 2026: Evolucionando cada capa de la pila",
+      "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack",
+      "summary": "GitHub presentó su visión 2026 para convertirse en el sistema de entrega de software más completo, cubriendo todo el ciclo de desarrollo. Implica cambios en la plataforma que impactarán a los equipos de desarrollo.",
+      "source": "GitHub Blog"
+    }
+  ]
+}
