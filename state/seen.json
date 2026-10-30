@@ -1,13 +1,4 @@
 {
-  "https://huggingface.co/blog/mps-pytorch-2-15": "2026-10-20T14:55:53.870Z",
-  "https://github.com/deepseek-ai/DeepInfer": "2026-10-20T14:55:53.870Z",
-  "https://huggingface.co/blog/anylanguagemodel-1-0": "2026-10-20T14:55:53.870Z",
-  "https://www.openbsd.org/80.html": "2026-10-20T14:55:53.870Z",
-  "https://laravel-news.com/laravel-token-guard-auth-bypass": "2026-10-20T14:55:53.870Z",
-  "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code": "2026-10-20T14:55:53.870Z",
-  "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more": "2026-10-20T14:55:53.870Z",
-  "https://openai.com/index/low-resource-programming-languages": "2026-10-20T14:55:53.870Z",
-  "https://www.xataka.com/videojuegos/google-deepmind-presume-haber-batido-a-minecraft-agentes-controlados-gemini-4-argon-apenas-27-horas": "2026-10-20T14:55:53.870Z",
   "https://claude.com/product/claude-duet": "2026-10-22T14:55:45.565Z",
   "https://openai.com/index/openai-models-google-cloud": "2026-10-22T14:55:45.565Z",
   "https://nodejs.org/en/blog/release/v26.12.1": "2026-10-22T14:55:45.565Z",
@@ -87,5 +78,15 @@
   "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain": "2026-10-29T14:56:30.299Z",
   "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors": "2026-10-29T14:56:30.299Z",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved": "2026-10-29T14:56:30.299Z",
-  "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack": "2026-10-29T14:56:30.299Z"
+  "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack": "2026-10-29T14:56:30.299Z",
+  "https://mistral.ai/news/mistral-large-4-oss": "2026-10-30T14:56:12.692Z",
+  "https://nodejs.org/en/blog/release/v27.0.0-alpha.0.0.0": "2026-10-30T14:56:12.692Z",
+  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": "2026-10-30T14:56:12.692Z",
+  "https://simonwillison.net/2026/Oct/29/api-credits": "2026-10-30T14:56:12.692Z",
+  "https://openai.com/index/how-we-detect-frontier-model-misalignment": "2026-10-30T14:56:12.692Z",
+  "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world": "2026-10-30T14:56:12.692Z",
+  "https://martinfowler.com/bliki/LLM-Voice.html": "2026-10-30T14:56:12.692Z",
+  "https://labs.ycombinator.com/projects/games/index.html": "2026-10-30T14:56:12.692Z",
+  "https://martinfowler.com/rachels-ramblings/good-devs-wary.html": "2026-10-30T14:56:12.692Z",
+  "https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices": "2026-10-30T14:56:12.692Z"
 }
