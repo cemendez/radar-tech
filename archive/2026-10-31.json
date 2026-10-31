@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-31",
+  "items": [
+    {
+      "title": "Facilitar a los sitios web expresar preferencias de entrenamiento de IA",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI aceptará una señal compartida en robots.txt que permite a los operadores de sitios indicar si su contenido puede usarse para entrenar modelos de IA. Así los desarrolladores pueden controlar la exposición de sus datos.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Intel traslada capacidad de producción de CPUs de consumo a servidores por demanda de IA",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+      "summary": "Intel amplía la fabricación y el empaquetado avanzado en EE. UU., Irlanda y Malasia para cubrir la alta demanda de CPUs de centro de datos impulsada por IA, mientras el mercado de PC se contrae y persisten limitaciones de suministro.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "summary": "Opinión: El autor expone vulnerabilidades críticas en API Connections de Azure Logic Apps que permiten compromisos completos entre inquilinos, mostrando riesgos de arquitectura que los desarrolladores deben mitigar.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Northflank vulnerado",
+      "url": "https://status.northflank.com/",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude de Anthropic bloquea clonación y reverse‑engineering de videojuegos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "summary": "El modelo Opus 5.5 de Anthropic impide la recreación y el reverse‑engineering de videojuegos, incluso bloqueando tareas genéricas no maliciosas, lo que afecta a desarrolladores que usan IA para análisis o generación de contenido.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Empresa que permite rentar tu Mac ocioso para inferencia de IA advierte caída de precios de tokens",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+      "summary": "Los usuarios de Mac que alquilan su CPU para cargas de inferencia de IA están viendo ingresos reducirse drásticamente porque el precio de los tokens, como el de Anthropic, cayó 77 % en menos de cinco meses.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Desarrollador crea emulador completo de PC Intel 486 en el navegador",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Show HN: Un Nintendo funcional en ~1 GB de pesos Qwen",
+      "url": "https://github.com/dbreunig/nesformer",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Tell HN: Scribd vulnerado",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "summary": "Scribd informó que un tercero no autorizado accedió a datos de usuarios, incluyendo correos electrónicos y los últimos cuatro dígitos de sus tarjetas de crédito, resaltando la necesidad de reforzar la seguridad de datos en aplicaciones web.",
+      "source": "Hacker News"
+    }
+  ]
+}
