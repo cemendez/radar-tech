@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "title": "Herramienta USB de código abierto elimina el limitador de IA de GPU Nvidia a mitad de velocidad en Windows",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+      "summary": "Se lanzó nv-uefi-unlocker, una herramienta UEFI de código abierto que elimina el límite de velocidad de los tensores en GPUs RTX 20, 30 y 40 bajo Windows, permitiendo aprovechar todo el potencial de IA de la tarjeta, útil para entrenar modelos o acelerar inferencias.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "TCP Use‑After‑Free: CVE‑2026‑98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "CVE‑2026‑98432 es una vulnerabilidad de uso después de liberación en el apretón de mano IPv4 TCP de Linux, con puntuación CVSS 9.8. Ya está corregida upstream (15 oct), pero Ubuntu y RHEL aún no han distribuido kernels parcheados.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "summary": "Se publicó la prueba Jepsen para ParticleDB 1.1.4 en GitHub, generando gran interacción de la comunidad (295 puntos y 166 comentarios).",
+      "source": "Hacker News"
+    },
+    {
+      "title": "La unidad USB con huella 'encriptada' de Lenovo es solo una tarjeta SD sin cifrar en una carcasa elegante",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products",
+      "summary": "Se descubrió que el pendrive USB con lector de huellas ThinkPlus FU100 de Lenovo, anunciado como 'encriptado', contiene una tarjeta SD sin cifrar y claves fijas en otros dispositivos USB 'seguros', lo que plantea serios riesgos de seguridad.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}

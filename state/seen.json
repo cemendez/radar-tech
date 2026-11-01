@@ -1,14 +1,4 @@
 {
-  "https://claude.com/product/claude-duet": "2026-10-22T14:55:45.565Z",
-  "https://openai.com/index/openai-models-google-cloud": "2026-10-22T14:55:45.565Z",
-  "https://nodejs.org/en/blog/release/v26.12.1": "2026-10-22T14:55:45.565Z",
-  "https://nodejs.org/en/blog/release/v24.22.1": "2026-10-22T14:55:45.565Z",
-  "https://laravel-news.com/php-critical-rce-security-releases": "2026-10-22T14:55:45.565Z",
-  "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released": "2026-10-22T14:55:45.565Z",
-  "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor": "2026-10-22T14:55:45.565Z",
-  "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities": "2026-10-22T14:55:45.565Z",
-  "https://github.com/openai/openai-cli": "2026-10-22T14:55:45.565Z",
-  "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure": "2026-10-22T14:55:45.565Z",
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors": "2026-10-23T14:55:51.491Z",
   "https://huggingface.co/blog/allenai/olmoearth-v1-3": "2026-10-23T14:55:51.491Z",
   "https://github.com/NVIDIA/OpenShell": "2026-10-23T14:55:51.491Z",
@@ -98,5 +88,10 @@
   "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent": "2026-10-31T14:56:49.754Z",
   "https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more": "2026-10-31T14:56:49.754Z",
   "https://github.com/dbreunig/nesformer": "2026-10-31T14:56:49.754Z",
-  "https://news.ycombinator.com/item?id=50312756": "2026-10-31T14:56:49.754Z"
+  "https://news.ycombinator.com/item?id=50312756": "2026-10-31T14:56:49.754Z",
+  "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops": "2026-11-01T14:56:29.440Z",
+  "https://simonwillison.net/2026/Oct/31/datasette-llm": "2026-11-01T14:56:29.440Z",
+  "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T14:56:29.440Z",
+  "https://jepsen.io/analyses/particledb-1.1.4": "2026-11-01T14:56:29.440Z",
+  "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products": "2026-11-01T14:56:29.440Z"
 }
