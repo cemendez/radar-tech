@@ -1,14 +1,4 @@
 {
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors": "2026-10-23T14:55:51.491Z",
-  "https://huggingface.co/blog/allenai/olmoearth-v1-3": "2026-10-23T14:55:51.491Z",
-  "https://github.com/NVIDIA/OpenShell": "2026-10-23T14:55:51.491Z",
-  "https://openai.com/index/decisions-api": "2026-10-23T14:55:51.491Z",
-  "https://huggingface.co/blog/torch-neuronx-model-support": "2026-10-23T14:55:51.491Z",
-  "https://laravel-news.com/laravel-prevent-stale-database-reads": "2026-10-23T14:55:51.491Z",
-  "https://laravel-news.com/decide-with-jev-turn-ai-answers-into-decisions-with-php-rules": "2026-10-23T14:55:51.491Z",
-  "https://quad9.net/news/blog/au-revoir-france": "2026-10-23T14:55:51.491Z",
-  "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet": "2026-10-23T14:55:51.491Z",
-  "https://openai.com/index/openai-nask-ai-safety-security-partnership": "2026-10-23T14:55:51.491Z",
   "https://block.xyz/dessa": "2026-10-24T14:55:33.784Z",
   "https://www.kimi.ai/blog/kimi-k3-1-pro": "2026-10-24T14:55:33.784Z",
   "https://laravel-news.com/volker-dusch-php-rce-disclosure": "2026-10-24T14:55:33.784Z",
@@ -93,5 +83,15 @@
   "https://simonwillison.net/2026/Oct/31/datasette-llm": "2026-11-01T14:56:29.440Z",
   "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf": "2026-11-01T14:56:29.440Z",
   "https://jepsen.io/analyses/particledb-1.1.4": "2026-11-01T14:56:29.440Z",
-  "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products": "2026-11-01T14:56:29.440Z"
+  "https://www.tomshardware.com/tech-industry/cyber-security/lenovo-fingerprint-usb-stick-sold-as-aes-256-encrypted-had-a-plain-sd-card-inside-ai-assisted-follow-up-finds-a-backdoor-and-hardcoded-keys-in-other-secure-usb-products": "2026-11-01T14:56:29.440Z",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom": "2026-11-02T14:55:59.507Z",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks": "2026-11-02T14:55:59.507Z",
+  "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse": "2026-11-02T14:55:59.507Z",
+  "https://arxiv.org/abs/2610.39302": "2026-11-02T14:55:59.507Z",
+  "https://github.com/ivankovic/omnidiff": "2026-11-02T14:55:59.507Z",
+  "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first": "2026-11-02T14:55:59.507Z",
+  "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks": "2026-11-02T14:55:59.507Z",
+  "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil": "2026-11-02T14:55:59.507Z",
+  "https://occupysaas.com/": "2026-11-02T14:55:59.507Z",
+  "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": "2026-11-02T14:55:59.507Z"
 }

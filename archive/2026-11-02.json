@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "title": "Modelo de IA incorpora CPU RISC‑V de 32‑bits en sus pesos y ejecuta DOOM",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+      "summary": "Qwenputer combina el LLM Qwen 3.5 4B con una CPU RISC‑V de 32 bits insertada en sus pesos, logrando ejecutar DOOM. Demuestra que los modelos pueden integrar hardware virtual, abriendo posibilidades para IA en edge y entornos limitados.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Anthropic confirma nuevas restricciones de Claude Code para evitar clonación de juegos",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+      "summary": "Un empleado de Anthropic confirmó que Claude Code ahora tiene prohibido reproducir IP de videojuegos, respondiendo a reportes de usuarios que bloquean tareas de ingeniería inversa. Para los desarrolladores implica límites al generar código que infrinja derechos de autor.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Filtración de seguridad en NVIDIA Brev pudo exponer claves SSH de VMs",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+      "summary": "NVIDIA investiga una brecha en su plataforma Brev que detectó actividad no autorizada del 4 al 20 octubre, potencialmente exponiendo claves SSH de máquinas virtuales de clientes. Rotaron las claves y actualizaron instancias; sin evidencia de uso indebido, pero alerta a devs sobre gestión de credenciales en la nube.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Demostrando y mejorando la Hipótesis de Representación Platónica con JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "summary": "Investigación que prueba el Teorema de Representación Platónica, mostrando que arquitecturas JEPA entrenadas en distintas modalidades convergen a la misma representación (hasta una rotación) cuando usan buenas vistas. Relevante para devs de IA que buscan modelos multimodales consistentes.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: OmniDiff, herramienta Git diff rápida y consciente del contenido, en Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "summary": "OmniDiff es una herramienta de diff para Git escrita en Rust que soporta código (25 lenguajes), configuraciones, imágenes, PDFs y más, con rendimiento de menos de 100 ms en archivos de miles de líneas. Ideal para devs que buscan un diff preciso y veloz en pipelines CI.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Si tienes dudas, elimina el archivo uv.lock",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+      "summary": "El autor señala que al migrar a Python 3.15 aparecen errores de dependencias confusos, y recomienda borrar el archivo uv.lock para resolverlos. Útil para desarrolladores que usan el gestor de paquetes uv y enfrentan problemas de versiones.",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Hackers afirman robar 23 TB de datos de Rosstat, incluidos cifras de bajas en Ucrania",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
+      "summary": "Rosstat confirmó un ataque a sus servidores, aunque niega filtraciones; los hackers aseguran haber obtenido hasta 23 TB con datos como estimaciones de muertes militares mensuales. Los devs deben reforzar la seguridad de bases de datos y monitorear accesos.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Sam Altman advierte contra ejecutar IA en PC; la escasez de GPUs lo facilita",
+      "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil",
+      "summary": "El autor describe cómo la demanda de IA ha disparado precios de tarjetas gráficas, dificultando montar un PC con GPU potente para IA local, incluso con modelos antiguos como RTX 4060. Para desarrolladores, muestra la presión del mercado de hardware y la necesidad de soluciones en la nube.",
+      "source": "Xataka"
+    },
+    {
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "summary": "OccupySaaS ofrece sustitutos de código abierto y auto‑alojados para los grandes SaaS, con asistencia de IA, licencia Apache‑2.0 y sin cargos por usuario. Permite a desarrolladores crear alternativas propias sin depender de proveedores externos.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "El censo de EE. UU. y la “Super Inteligencia”",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+      "summary": "Opinión: El autor reflexiona sobre la disminución de la adopción de IA en grandes empresas, citando un gráfico de Apollo Global Management, y cuestiona el impacto de la “Super Inteligencia” en instituciones como el censo de EE. UU. Relevante para devs que siguen tendencias de IA empresarial.",
+      "source": "Simon Willison"
+    }
+  ]
+}
