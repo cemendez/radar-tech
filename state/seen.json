@@ -1,14 +1,4 @@
 {
-  "https://block.xyz/dessa": "2026-10-24T14:55:33.784Z",
-  "https://www.kimi.ai/blog/kimi-k3-1-pro": "2026-10-24T14:55:33.784Z",
-  "https://laravel-news.com/volker-dusch-php-rce-disclosure": "2026-10-24T14:55:33.784Z",
-  "https://github.com/obsproject/obs-studio/releases/tag/33.0.0": "2026-10-24T14:55:33.784Z",
-  "https://openai.com/index/securing-our-frontier-model-training-environment": "2026-10-24T14:55:33.784Z",
-  "https://cve.0xosprey.com/": "2026-10-24T14:55:33.784Z",
-  "https://openai.com/index/scaling-storage-one-billion-users-part-two": "2026-10-24T14:55:33.784Z",
-  "https://philipotoole.com/twelve-years-of-distributed-sqlite": "2026-10-24T14:55:33.784Z",
-  "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block": "2026-10-24T14:55:33.784Z",
-  "https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals": "2026-10-24T14:55:33.784Z",
   "https://aardappel.github.io/goose": "2026-10-25T14:55:46.889Z",
   "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform": "2026-10-25T14:55:46.889Z",
   "https://twitter.com/mike64_t/status/2114150399406202896": "2026-10-25T14:55:46.889Z",
@@ -93,5 +83,15 @@
   "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks": "2026-11-02T14:55:59.507Z",
   "https://www.xataka.com/robotica-e-ia/sam-altman-no-quiere-que-ejecutes-ia-tu-pc-subida-graficas-que-provoca-su-propia-industria-se-esta-poniendo-facil": "2026-11-02T14:55:59.507Z",
   "https://occupysaas.com/": "2026-11-02T14:55:59.507Z",
-  "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": "2026-11-02T14:55:59.507Z"
+  "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence": "2026-11-02T14:55:59.507Z",
+  "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim": "2026-11-03T14:56:16.228Z",
+  "https://laravel-news.com/composer-2-11": "2026-11-03T14:56:16.228Z",
+  "https://laravel-news.com/inertia-3-11-0": "2026-11-03T14:56:16.228Z",
+  "https://openai.com/index/scaling-git-at-openai": "2026-11-03T14:56:16.228Z",
+  "https://erici.eu/": "2026-11-03T14:56:16.228Z",
+  "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits": "2026-11-03T14:56:16.228Z",
+  "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027": "2026-11-03T14:56:16.228Z",
+  "https://huggingface.co/blog/transformers-mic": "2026-11-03T14:56:16.228Z",
+  "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": "2026-11-03T14:56:16.228Z",
+  "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you": "2026-11-03T14:56:16.228Z"
 }
