@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-04",
+  "items": [
+    {
+      "title": "Qwen 3.8 27B en mi laptop puede interpretar pesos de modelo también",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "summary": "Un nuevo artículo muestra que los LLM pueden leer y escribir pesos de redes neuronales directamente, permitiendo que modelos como Qwen 3.8 27B interpreten sus propios pesos en un laptop. Esto abre posibilidades para depuración y manipulación de modelos en local.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Safari introduce el modo oscuro adaptativo en la versión 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Alertas de trabajos lentos e IDs de commit de réplica en Laravel 13.40",
+      "url": "https://laravel-news.com/laravel-13-40-0",
+      "summary": "Laravel 13.40 incorpora callbacks para detectar trabajos de cola lentos y tareas programadas, IDs de commit para monitorear lag de réplicas de lectura, y los métodos insertBefore() e insertAfter() para middleware.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Miércoles 11 de noviembre de 2026: lanzamientos de seguridad",
+      "url": "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases",
+      "summary": "Node.js® es un entorno de ejecución JavaScript de código abierto y multiplataforma que permite a los desarrolladores crear servidores, aplicaciones web, herramientas de línea de comandos y scripts.",
+      "source": "Node.js"
+    },
+    {
+      "title": "Postman instala silenciosamente plugins de IA y trata de compartir todos los datos de API",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "summary": "Postman está instalando silenciosamente plugins de IA y podría estar compartiendo todos los datos de API, lo que plantea riesgos de seguridad y privacidad para los equipos que usan la plataforma.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "El análisis post‑mortem de una vulnerabilidad de PHP revela que el error se conocía hace dos años — Un pequeño equipo de mantenedores sabía del problema antes de que se hiciera público, mientras un nuevo exploit PHP2Shell encadenado afecta a servidores",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "El firmware cifrado del Nvidia RTX Spark ralentiza la inferencia un 35 % en Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "summary": "Una prueba práctica en Linux muestra que el firmware cifrado del portátil Nvidia RTX Spark provoca un throttling del reloj GPU, reduciendo la velocidad de inferencia en un 35 %. Se compara con el rendimiento en WSL.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "StateBench: probando cómo los modelos de lenguaje siguen cambios de estado en documentos extensos",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Ingenieros de Cloudflare optimizan los servicios de construcción DNS para duplicar la velocidad y reducir el uso de RAM en un 85 %",
+      "url": "https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    }
+  ]
+}

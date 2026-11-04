@@ -1,14 +1,4 @@
 {
-  "https://aardappel.github.io/goose": "2026-10-25T14:55:46.889Z",
-  "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform": "2026-10-25T14:55:46.889Z",
-  "https://twitter.com/mike64_t/status/2114150399406202896": "2026-10-25T14:55:46.889Z",
-  "https://freedns.afraid.org/": "2026-10-25T14:55:46.889Z",
-  "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data": "2026-10-25T14:55:46.889Z",
-  "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes": "2026-10-25T14:55:46.889Z",
-  "https://danluu.com/ambitious": "2026-10-25T14:55:46.889Z",
-  "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras": "2026-10-25T14:55:46.889Z",
-  "https://github.com/Zagitta/gpu-unlock": "2026-10-25T14:55:46.889Z",
-  "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket": "2026-10-25T14:55:46.889Z",
   "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": "2026-10-26T14:55:56.023Z",
   "https://laravel-news.com/nativephp-mobile-security-advisories": "2026-10-26T14:55:56.023Z",
   "https://github.com/KrushnaVardhanReddy/PaperPilot": "2026-10-26T14:55:56.023Z",
@@ -93,5 +83,15 @@
   "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027": "2026-11-03T14:56:16.228Z",
   "https://huggingface.co/blog/transformers-mic": "2026-11-03T14:56:16.228Z",
   "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": "2026-11-03T14:56:16.228Z",
-  "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you": "2026-11-03T14:56:16.228Z"
+  "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you": "2026-11-03T14:56:16.228Z",
+  "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": "2026-11-04T14:56:09.660Z",
+  "https://webkit.org/blog/18541/introducing-adaptive-dark-mode": "2026-11-04T14:56:09.660Z",
+  "https://laravel-news.com/laravel-13-40-0": "2026-11-04T14:56:09.660Z",
+  "https://nodejs.org/en/blog/vulnerability/november-2026-security-releases": "2026-11-04T14:56:09.660Z",
+  "https://github.com/postmanlabs/postman-app-support/issues/14370": "2026-11-04T14:56:09.660Z",
+  "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers": "2026-11-04T14:56:09.660Z",
+  "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop": "2026-11-04T14:56:09.660Z",
+  "https://huggingface.co/blog/allenai/statebench": "2026-11-04T14:56:09.660Z",
+  "https://www.tomshardware.com/networking/cloudflare-engineers-optimize-dns-build-services-for-twice-the-speed-and-85-percent-lower-ram-usage-finer-grained-processes-only-do-work-and-data-movement-thats-needed": "2026-11-04T14:56:09.660Z",
+  "https://sw.kovidgoyal.net/kitty/changelog": "2026-11-04T14:56:09.660Z"
 }
