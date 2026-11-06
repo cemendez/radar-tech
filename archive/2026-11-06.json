@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "title": "GPT‑6 Cyber: Avanzando la frontera de agentes de ciberseguridad alineados",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "summary": "OpenAI presenta GPT‑6 Cyber, un modelo de IA especializado en identificar vulnerabilidades explotables y generar correcciones, entrenado para operar dentro del alcance autorizado. Útil para automatizar pruebas de seguridad en proyectos.",
+      "source": "OpenAI"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Generación rápida y económica de videos",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "summary": "Gemini Omni 1.2 Flash incorpora generación y edición nativa de videos de 15 s, mejora la consistencia y reduce el costo en un 30 %. Ideal para desarrolladores que integran contenido multimedia automatizado.",
+      "source": "Google AI"
+    },
+    {
+      "title": "Nuevos modelos NVIDIA Cosmos 3 de código abierto para simulación interactiva del mundo",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hugging Face"
+    },
+    {
+      "title": "Dentro de la nueva arquitectura de almacenamiento de Git de GitHub",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture",
+      "summary": "GitHub lanzó una arquitectura de almacenamiento de Git que permite que miles de agentes realicen push al mismo repositorio simultáneamente, mejorando la escalabilidad de flujos CI/CD y colaboraciones masivas.",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Laravel Herd 2: Agentes de código, espacios de trabajo y despliegues en la nube",
+      "url": "https://laravel-news.com/laravel-herd-2",
+      "summary": "Laravel Herd 2.0 añade Herd Studio para ejecutar agentes de código en sitios locales, workspaces Git para trabajo paralelo y despliegues en Laravel Cloud, facilitando entornos de desarrollo colaborativo y automatizado.",
+      "source": "Laravel News"
+    },
+    {
+      "title": "Las declaraciones de accesibilidad ahora tienen un espacio en GitHub",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github",
+      "summary": "GitHub destaca los archivos ACCESSIBILITY.md y brinda herramientas para que los mantenedores documenten metas de accesibilidad, barreras conocidas y procesos de reporte, promoviendo proyectos más inclusivos.",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "Septiembre en Servo: rectángulos redondeados y más",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code envía tu dirección de correo a sitios web",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "summary": "Se detectó que Claude Code incluye la dirección de email del usuario en el encabezado User-Agent durante búsquedas web, exponiéndola a terceros y generando spam. Los desarrolladores deben vigilar fugas de datos en herramientas de IA.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Detalles de la tecnología FDX Fusion de GlobalFoundries: rendimiento 7 nm sin EUV",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+      "summary": "GlobalFoundries reveló que su tecnología FDX Fusion logra rendimiento comparable a 7 nm y densidad lógica 8 nm usando transistores planar FD‑SOI sin litografía EUV, con objetivo de producción masiva para 2030, información clave para planear hardware futuro.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Vulnerabilidad de ejecución remota en MS Paint",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    }
+  ]
+}
