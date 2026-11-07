@@ -1,14 +1,4 @@
 {
-  "https://openai.com/index/retell-ai": "2026-10-28T14:55:38.889Z",
-  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": "2026-10-28T14:55:38.889Z",
-  "https://huggingface.co/blog/LiquidAI/lfm3": "2026-10-28T14:55:38.889Z",
-  "https://laravel-news.com/laravel-13-39-0": "2026-10-28T14:55:38.889Z",
-  "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth": "2026-10-28T14:55:38.889Z",
-  "https://emudhra.we-have-a-problem.com/apple.html": "2026-10-28T14:55:38.889Z",
-  "https://tailscale.com/ssh-investigation-update": "2026-10-28T14:55:38.889Z",
-  "https://www.xataka.com/aplicaciones/discord-quiere-que-mensajes-sus-servidores-publicos-se-puedan-buscar-google-todo-que-eso-conlleva": "2026-10-28T14:55:38.889Z",
-  "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6": "2026-10-28T14:55:38.889Z",
-  "https://ghostty.org/docs/install/release-notes/1-4-0": "2026-10-28T14:55:38.889Z",
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon": "2026-10-29T14:56:30.299Z",
   "https://nodejs.org/en/blog/release/v26.13.0": "2026-10-29T14:56:30.299Z",
   "https://huggingface.co/blog/mistral-large4": "2026-10-29T14:56:30.299Z",
@@ -93,5 +83,15 @@
   "https://servo.org/blog/2026/11/05/september-in-servo": "2026-11-06T14:55:49.034Z",
   "https://github.com/anthropics/claude-code/issues/107757": "2026-11-06T14:55:49.034Z",
   "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow": "2026-11-06T14:55:49.034Z",
-  "https://www.cve.org/CVERecord?id=CVE-2026-83844": "2026-11-06T14:55:49.034Z"
+  "https://www.cve.org/CVERecord?id=CVE-2026-83844": "2026-11-06T14:55:49.034Z",
+  "https://laravel-news.com/phpstorm-2026-3": "2026-11-07T14:55:41.049Z",
+  "https://pwn.ai/blog/firecracker-escape": "2026-11-07T14:55:41.049Z",
+  "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering": "2026-11-07T14:55:41.049Z",
+  "https://hightouch.com/blog/llm-judges-identity-resolution": "2026-11-07T14:55:41.049Z",
+  "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph": "2026-11-07T14:55:41.049Z",
+  "https://mitchellh.com/writing/libghostty-1-0": "2026-11-07T14:55:41.049Z",
+  "https://huggingface.co/blog/allenai/toyblocks": "2026-11-07T14:55:41.049Z",
+  "https://nfsu2.xyz/": "2026-11-07T14:55:41.049Z",
+  "https://www.tomshardware.com/pc-components/ssds/teamgroup-ga-pro-2tb-ssd-review": "2026-11-07T14:55:41.049Z",
+  "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability": "2026-11-07T14:55:41.049Z"
 }
