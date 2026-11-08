@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "title": "Adiós Claude, hola Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code revela contraseñas en 1,122 archivos públicos de GitHub",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "GitHub lanza vista previa pública de nueva página de resumen de pull requests",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview",
+      "summary": "GitHub introdujo una página de vista previa para pull requests que muestra bloqueos, revisiones y estado sin necesidad de desplazarse por cientos de comentarios, agilizando la revisión de código para los desarrolladores.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Todas las apps de Windows 11 deberían eliminar Electron; Discord lo demuestra",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in",
+      "summary": "El cliente Rust de Discord se inicia antes que la interfaz Electron, omite la pantalla de inicio y consume 290 MB de RAM con dos cuentas, evidenciando la ineficiencia de Electron y motivando a los desarrolladores a considerar alternativas nativas.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "MaxxBench – “Buen puntaje DeepSWE. ¿Es real?”",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Administrador de GPU de código abierto muestra qué consume tu VRAM",
+      "url": "https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "PC con 64 GB de RAM caen 18 % mientras suben los precios de la memoria",
+      "url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback",
+      "summary": "Datos de CPU‑Z indican que la adopción de RAM de 64 GB cayó 18 % interanual debido al alza de precios del DRAM impulsada por IA, lo que afecta a desarrolladores que requieren gran capacidad de memoria.",
+      "source": "Tom's Hardware"
+    },
+    {
+      "title": "Qué ejecuto en mi homelab OpenStick de $10 USD",
+      "url": "https://blog.bosscher.ch/posts/openstick",
+      "summary": "La fuente no incluye descripción; abre el enlace para leer el artículo completo.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Coldframe, honeypot que simula controlador de refrigerador de supermercado",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "summary": "Coldframe es un honeypot en Python que emula controladores industriales de refrigeración (Danfoss AK‑SM 800A, Dixell XWEB) usando solo la biblioteca estándar, atrayendo a atacantes para pruebas de seguridad.",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Linux 7.5 elimina las últimas optimizaciones MMX de Intel de 30 años",
+      "url": "https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code",
+      "summary": "Linux 7.5 retirará los últimos fragmentos de código MMX, poniendo fin al soporte de las extensiones multimedia de Intel de hace tres décadas, lo que simplifica el kernel pero puede impactar hardware legado.",
+      "source": "Tom's Hardware"
+    }
+  ]
+}
